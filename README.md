@@ -1,18 +1,3 @@
-**CID:** 01879907
-
-# Project
-This repository is for the submission of your **Computing 2: Applications** coursework.
-
-You should complete the proforma and populate this repository with your project submission.
-
-* **Repository Creation Check:** Tuesday 4th May 18:00 – Update your CID in this file to check your submission.
-* **Peer Assessment Deadline:** Tuesday 8th June 18:00
-* **Final Submission Deadline:** Thursday 17th June 16:00
-
-# Computing 2 Submission Proforma
-
-For each section, write a maximum of 200 words.
-
 ## Brief
   In this numerical age, everyone is expected to know how to use a computer. However, for those who haven’t been using them for most of their life such as seniors, this can be a challenge. Indeed, when helping my grand-parents navigate on their computer, I have noticed they lack the basic vocabulary and understanding around computers.  
   This webapp was designed to give seniors the tools to gain freedom on their computer and participate in conversations. They can chose to learn the information prior to needing it or find out about a particular element when they encounter it. Seniors do not use their computer as often as the younger generations and information may be forgotten therefore a permanent source of information is the ideal solution. The goal was to replicate their computer screen to allow them to point at the elements rather than have to search for it using words.
